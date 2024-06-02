@@ -1,0 +1,17 @@
+{
+  "name": "ws4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eventemitter3": "^5.0.1",
+    "ws": "^8.17.0"
+  }
+}
